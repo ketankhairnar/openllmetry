@@ -12,9 +12,9 @@
 
 | Provider | Package | Status | Session | Exploration |
 |----------|---------|--------|---------|-------------|
-| **OpenAI** (incl. Azure) | `opentelemetry-instrumentation-openai` | 📋 TODO | 2 | ✅ Complete |
-| **Anthropic** | `opentelemetry-instrumentation-anthropic` | 📋 TODO | 2 | ✅ Complete |
-| **AWS Bedrock** | `opentelemetry-instrumentation-bedrock` | 📋 TODO | 2 | ✅ Complete |
+| **OpenAI** (incl. Azure) | `opentelemetry-instrumentation-openai` | ✅ Complete | 2 | ✅ Complete |
+| **Anthropic** | `opentelemetry-instrumentation-anthropic` | ✅ Complete | 2 | ✅ Complete |
+| **AWS Bedrock** | `opentelemetry-instrumentation-bedrock` | ✅ Complete | 2 | ✅ Complete |
 
 ### Tier 2 - Medium Priority
 
