@@ -81,9 +81,10 @@
 
 ---
 
-### Session 2 - LLM Providers Tier 1 (Planned)
+### Session 2 - LLM Providers Tier 1 (2025-11-22)
 
-**Status**: 📋 Not Started
+**Status**: 🚧 In Progress
+**Branch**: `claude/traceloop-instrumentation-docs-012uAZChpxoEsxKnLJVp16jh`
 **Estimated Tokens**: 60-80K
 
 #### Planned Deliverables
