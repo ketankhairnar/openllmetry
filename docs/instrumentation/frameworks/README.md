@@ -2,7 +2,7 @@
 
 > **Category**: AI Frameworks
 > **Total Packages**: 6
-> **Completed**: 0/6 (0%)
+> **Completed**: 1/6 (17%)
 
 ---
 
@@ -10,7 +10,7 @@
 
 | Framework | Package | Status | Session | Exploration | Priority |
 |-----------|---------|--------|---------|-------------|----------|
-| **LangChain** | `opentelemetry-instrumentation-langchain` | 📋 TODO | 3 | ✅ Complete | 🔴 MUST |
+| **LangChain** | `opentelemetry-instrumentation-langchain` | ✅ Complete | 3 | ✅ Complete | 🔴 MUST |
 | **LlamaIndex** | `opentelemetry-instrumentation-llamaindex` | 📋 TODO | 4 | 📋 TODO | 🟡 Medium |
 | **Haystack** | `opentelemetry-instrumentation-haystack` | 📋 TODO | 4 | 📋 TODO | 🟢 Lower |
 | **CrewAI** | `opentelemetry-instrumentation-crewai` | 📋 TODO | 4 | 📋 TODO | 🟡 Medium |
